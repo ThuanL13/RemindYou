@@ -8,6 +8,7 @@ public class Main {
         // Here is where you write code.
         System.out.println("Welcome to the Remind You app\n");
         // System.out.println("");
-        System.out.println("Don't forget to track your distance with the fitness app");
+        System.out.println("Don't forget to track your distance with the fitness app\n");
+        System.out.println("Don't forget to get gas");
     }
 }
