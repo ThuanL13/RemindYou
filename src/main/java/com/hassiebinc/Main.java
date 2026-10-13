@@ -62,7 +62,7 @@ public class Main {
         // First Letter: J
         // Loves Gaming: true
         // PascalCasing = Classnames (FirstLetter Uppercase)
-        //camelCasing = Variables
+        // camelCasing = Variables
 
 
     }
