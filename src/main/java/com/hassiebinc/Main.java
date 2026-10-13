@@ -43,7 +43,7 @@ public class Main {
         System.out.println("Likes to game? " + gamer);
 
         // Create your own data type
-        System.out.println("Likes to sleep? " + lovestosleep);
+        // System.out.println("Likes to sleep? " + lovestosleep);
 
         // ==========================================
         // BONUS CHALLENGE
